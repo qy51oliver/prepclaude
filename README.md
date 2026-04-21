@@ -33,4 +33,10 @@ Get a free API key at [console.anthropic.com](https://console.anthropic.com). Yo
 
 ---
 
+https://github.com/user-attachments/assets/2675caac-0cd2-4707-a71b-28b32f7f58a2
+
+
+
+
+
 Built by [Oliver You](https://github.com/qy51oliver) · MSCS Duke University
